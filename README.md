@@ -72,8 +72,7 @@ where fixed_agent_class is one of the following:
 
 ## Authors
 
-- Federico Pernici <federico.pernici at unifi.it> [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/FedPernici.svg?style=social&label=Follow%20%40FedPernici)](https://twitter.com/FedPernici)
-
+- Federico Pernici <federico.pernici at unifi.it> [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/FedPernici.svg?style=social&label=FedPernici)](https://twitter.com/FedPernici)
 - Matteo Bruni <matteo.bruni at unifi.it>
 - Claudio Baecchi <claudio.baecchi at unifi.it>
 - Francesco Turchini <francesco.turchini at unifi.it>
