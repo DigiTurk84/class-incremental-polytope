@@ -29,11 +29,35 @@ Our ablation study on pre-allocating a large number of classes further validates
 ## Usage
 
 follow instruction at https://github.com/GT-RIPL/Continual-Learning-Benchmark#usage
-to use our models/agent add these at the command line:
+
+### Model
+
+To use one of the models with fixed classifier, add these options
 
 ```
+--model_type fixed_model
+--model_name model_name
 ```
+where fixed model is one of the following:
+1. fixed_resnet
+2. fixed_mlp
+3. fixed_lenet
 
+and model_name is one of the classes names defined in the respective files
+
+### Agent
+
+to use our naive reharsal with simplex, add these options
+```
+--agent_type fixed_agent
+--agent_name fixed_agent_class 
+```
+where fixed_agent_class is one of the following:
+
+1. Fixed_Simplex_Naive_Rehearsal_100
+2. Fixed_Simplex_Naive_Rehearsal_1100
+3. Fixed_Simplex_Naive_Rehearsal_1400
+4. Fixed_Simplex_Naive_Rehearsal_5600
 
 
 ## Citing
