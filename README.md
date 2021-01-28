@@ -1,6 +1,6 @@
 # Class-incremental Learning with Pre-allocated Fixed Classifiers
 
-This repo contains the original code used for the experiments of "Class-incremental Learning with Pre-allocated Fixed Classifiers".
+This repo contains the code used for the experiments of "Class-incremental Learning with Pre-allocated Fixed Classifiers".
 
 Our code relies on the framework of "Re-evaluating Continual Learning Scenarios: A Categorization and Case for Strong Baselines" paper available at https://github.com/GT-RIPL/Continual-Learning-Benchmark
 
@@ -32,7 +32,7 @@ Our ablation study on pre-allocating a large number of classes further validates
 
 ## Usage
 
-follow instruction at https://github.com/GT-RIPL/Continual-Learning-Benchmark#usage
+follow instruction at https://github.com/GT-RIPL/Continual-Learning-Benchmark#usage and use our modules with the following arguments.
 
 ### Model
 
