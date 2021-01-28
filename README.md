@@ -1,9 +1,8 @@
 # Class-incremental Learning with Pre-allocated Fixed Classifiers
 
-This repo contains the code of "Class-incremental Learning with Pre-allocated Fixed Classifiers".
+This repo contains the code of "Class-incremental Learning with Pre-allocated Fixed Classifiers" (ICPR2020).
 
 Our code relies on the framework of "Re-evaluating Continual Learning Scenarios: A Categorization and Case for Strong Baselines" paper available at https://github.com/GT-RIPL/Continual-Learning-Benchmark
-
 Refer to our paper for more details: https://arxiv.org/abs/2010.08657
 
 If you have any question, feel free to open an issue.
@@ -81,7 +80,7 @@ where fixed_agent_class is one of the following:
 
 ## Citing
 
-Please kindly cite our paper if this paper is helpful.
+Please kindly cite our paper if this repository is helpful.
 ```
 @article{pernici2020icpr,
   author    = {Federico Pernici and
