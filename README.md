@@ -7,6 +7,10 @@ Our code relies on the framework of "Re-evaluating Continual Learning Scenarios:
 Refer to our paper for more details: <link to paper will be updated as soon the conference will publish it online>
 If you have any question, feel free to open an issue.
 
+<p align="center">
+  <img src="https://github.com/DigiTurk84/class-incremental-polytope/blob/main/img/intro_top.png?raw=true">
+</p>
+
 ## Abstract
 > In class-incremental learning, a learning agent faces a stream of data with the goal of learning new classes while not forgetting  previous ones. 
 Neural networks are known to suffer under this setting, as they forget previously acquired knowledge. 
@@ -58,6 +62,14 @@ where fixed_agent_class is one of the following:
 2. Fixed_Simplex_Naive_Rehearsal_1100
 3. Fixed_Simplex_Naive_Rehearsal_1400
 4. Fixed_Simplex_Naive_Rehearsal_5600
+
+## Authors
+
+- Federico Pernici <federico.pernici at unifi.it>
+- Matteo Bruni <matteo.bruni at unifi.it>
+- Claudio Baecchi <claudio.baecchi at unifi.it>
+- Francesco Turchini <francesco.turchini at unifi.it>
+- Alberto Del Bimbo <alberto.delbimbo at unifi.it>
 
 
 ## Citing
