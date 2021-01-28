@@ -4,7 +4,8 @@ This repo contains the code used for the experiments of "Class-incremental Learn
 
 Our code relies on the framework of "Re-evaluating Continual Learning Scenarios: A Categorization and Case for Strong Baselines" paper available at https://github.com/GT-RIPL/Continual-Learning-Benchmark
 
-Refer to our paper for more details: <link to paper will be updated as soon the conference will publish it online>
+Refer to our paper for more details: https://arxiv.org/abs/2010.08657
+
 If you have any question, feel free to open an issue.
 
 <p align="center">
@@ -27,7 +28,13 @@ Our ablation study on pre-allocating a large number of classes further validates
 
 ## Preparation
 
-1. clone the repository available at: https://github.com/GT-RIPL/Continual-Learning-Benchmark at commit d78b997
+1. clone the repository available at: https://github.com/GT-RIPL/Continual-Learning-Benchmark (at the time of writing we tested against commit d78b997)
+```
+git clone https://github.com/GT-RIPL/Continual-Learning-Benchmark
+cd Continual-Learning-Benchmark
+git checkout d78b997
+```
+
 2. merge the files available in this repo with the code cloned at step 1
 
 ## Usage
